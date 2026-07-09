@@ -1,8 +1,6 @@
 마크다운 문법 정리
 -
 
----
-
 1. ***Headers***
 - 큰 제목: 문서 제목
 ```
@@ -246,5 +244,5 @@ __two__
 
 ---
 ![깃허브](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyt9o2vV7qbUzPXo1bet8BsmumaYMNWALTk29xdsx5A&s=10 "GitHub")
-![깃허브](./image/github.png)
+![깃허브](../image/github.png)
 [![깃허브](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyt9o2vV7qbUzPXo1bet8BsmumaYMNWALTk29xdsx5A&s=10)](https://github.com/b-jm)
